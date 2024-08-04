@@ -1,0 +1,9 @@
+Products
+3|shoes|2500.0
+6|Football|2000.0
+Customers
+3|Hassan|hassan@gmail.com
+6|Hamza|hamza@gmailcom
+Purchases
+3|3|3000.0
+6|6|2000.0
